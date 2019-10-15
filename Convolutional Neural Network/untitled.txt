@@ -1,0 +1,4 @@
+Requirements
+    - Python 3.6 or higher
+    - Keras 2.2.4 or higher
+    - matplotlib(for visualization part)
